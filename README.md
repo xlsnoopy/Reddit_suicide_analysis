@@ -10,5 +10,5 @@
 [Here](https://lifelines.readthedocs.io/en/latest/Survival%20Regression.html) is the library that contains the survival model used. 
 ### Features selected
 Two main categories of features are included:
-1. Indicator of subreddit: top $k$ subreddits are selected.
-2. Indicator of keyword: use word2vec to expand a manually selected keyword list to $N$ keywords.
+1. Indicator of subreddit: top *k* subreddits are selected.
+2. Indicator of keyword: use word2vec to expand a manually selected keyword list to *N* keywords.
